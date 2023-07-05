@@ -1,0 +1,14 @@
+C:\Users\asus\source\repos\Disconnected Environment1\Disconnected Environment1\bin\Debug\Disconnected Environment1.exe.config
+C:\Users\asus\source\repos\Disconnected Environment1\Disconnected Environment1\bin\Debug\Disconnected Environment1.exe
+C:\Users\asus\source\repos\Disconnected Environment1\Disconnected Environment1\bin\Debug\Disconnected Environment1.pdb
+C:\Users\asus\source\repos\Disconnected Environment1\Disconnected Environment1\obj\Debug\Disconnected Environment1.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Disconnected Environment1\Disconnected Environment1\obj\Debug\Disconnected Environment1.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\source\repos\Disconnected Environment1\Disconnected Environment1\obj\Debug\Disconnected_Environment1.Form1.resources
+C:\Users\asus\source\repos\Disconnected Environment1\Disconnected Environment1\obj\Debug\Disconnected_Environment1.Form2.resources
+C:\Users\asus\source\repos\Disconnected Environment1\Disconnected Environment1\obj\Debug\Disconnected_Environment1.Form3.resources
+C:\Users\asus\source\repos\Disconnected Environment1\Disconnected Environment1\obj\Debug\Disconnected_Environment1.Form4.resources
+C:\Users\asus\source\repos\Disconnected Environment1\Disconnected Environment1\obj\Debug\Disconnected_Environment1.Properties.Resources.resources
+C:\Users\asus\source\repos\Disconnected Environment1\Disconnected Environment1\obj\Debug\Disconnected Environment1.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Disconnected Environment1\Disconnected Environment1\obj\Debug\Disconnected Environment1.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Disconnected Environment1\Disconnected Environment1\obj\Debug\Disconnected Environment1.exe
+C:\Users\asus\source\repos\Disconnected Environment1\Disconnected Environment1\obj\Debug\Disconnected Environment1.pdb
